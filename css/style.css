@@ -5,13 +5,13 @@ body{
 }
 
 h1{
-    resize: 64px;
+    font-size: 64px;
     text-align: center;
     padding: 10px;
 }
 
 h2{
-    resize:32px;
+    font-size:32px;
     text-shadow:4px 4px 2px #808080;
 }
 
@@ -59,7 +59,6 @@ div#green{
 }
 
 footer p{
-    padding-bottom: 10px;
-    padding-right: 10px;
+    padding: 0px 10px 10px 0px ;
     text-align: center;
 }
